@@ -16,3 +16,7 @@ of times someone on the internet's script saved me hours of time and headache!
 # Exchange Distribution Group Tool -
   A tool that will open a PS Session with an on-prem Exchange server, pull the cmdlets from the Exchange Shell into your shell session,
   then create the desired Distribution group, then run through a list of users specified to add to the distribution group.
+
+# AD Users Last 30 Days -
+  A very simple script that will generate a report of the most recent AD users created over the last 30 days. You can edit the script for a larger time frame, more or
+  less properties, or even adjust the Export-CSV to HTML if you'd like.
