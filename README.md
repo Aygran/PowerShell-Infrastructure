@@ -20,3 +20,7 @@ of times someone on the internet's script saved me hours of time and headache!
 # AD Users Last 30 Days -
   A very simple script that will generate a report of the most recent AD users created over the last 30 days. You can edit the script for a larger time frame, more or
   less properties, or even adjust the Export-CSV to HTML if you'd like.
+
+# Delete After X Days -
+  A script designed to do exactly as intended. This one-liner will delete anything in the desired folder path that's older than the amount of days set. Easy to setup as 
+  an automated task as well to automate you're cleaning duties.
