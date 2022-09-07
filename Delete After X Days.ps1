@@ -17,7 +17,7 @@
 
 ------------------------------------------------------------------ #>
 
-$FilePath = #"C:\File\Path\Here
+$FilePath = #"C:\File\Path\Here"
 
 # Set Path for items to be deleted
 Get-ChildItem –Path $FilePath -Recurse |
