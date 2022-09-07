@@ -2,7 +2,7 @@
 
                           Simple Deletion Script
 
-                       Written by: Mitchell Edwards
+                       Written by: Aygran
                        Created: 9/7/22
 
                 change the FilePath location to the 
