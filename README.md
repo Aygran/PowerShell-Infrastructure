@@ -24,3 +24,6 @@ of times someone on the internet's script saved me hours of time and headache!
 # Delete After X Days -
   A script designed to do exactly as intended. This one-liner will delete anything in the desired folder path that's older than the amount of days set. Easy to setup as 
   an automated task as well to automate you're cleaning duties.
+
+# All AD User Audit -
+  An auditing script that pulls all desired information from all enabled users in Active Directory. Easily editable to provide exact objects for your scope, also exports   contents as a time-stamped CSV, and includes an additional time-stamp at the bottom of the CSV after user data.
