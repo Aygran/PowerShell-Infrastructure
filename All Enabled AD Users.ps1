@@ -2,8 +2,9 @@
 
                             Get All AD Users
 
-                       Written by: Aygran
-                       Created: 9/12/22
+                       Written by:  Aygran
+                       Created:     9/12/22
+                       Version #:   1.0.0
 
                 This script will examine all enabled users
                 in Active Directory, pull their information
@@ -13,6 +14,14 @@
                 AD Account has been modified, their manager,
                 their Orgizational Unit, and a description
                 if there is any.
+                
+                To use the script, delete the Hashtag after,
+                "Select-Object". Then replace the objects 
+                with what you're looking to achieve.
+                
+                To enable ALL users instead of disabled,
+                replace "enabled -eq 'true'" with * after
+                -Filter.
 
 ------------------------------------------------------------------ #>
         
