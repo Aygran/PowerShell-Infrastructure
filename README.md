@@ -27,3 +27,7 @@ of times someone on the internet's script saved me hours of time and headache!
 
 # All AD User Audit -
   An auditing script that pulls all desired information from all enabled users in Active Directory. Easily editable to provide exact objects for your scope, also exports   contents as a time-stamped CSV, and includes an additional time-stamp at the bottom of the CSV after user data.
+
+# Local Admin Groups -
+  A little script that's come in handy a few times for myself. This will pull the list of users in a local group and display it in a csv. You can edit the said CSV and
+  reuse it to add members to a local group as well.
