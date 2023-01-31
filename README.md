@@ -31,3 +31,6 @@ of times someone on the internet's script saved me hours of time and headache!
 # Local Admin Groups -
   A little script that's come in handy a few times for myself. This will pull the list of users in a local group and display it in a csv. You can edit the said CSV and
   reuse it to add members to a local group as well.
+
+# Service Status -
+  Script that pulls all the current services on a server, showing who is assigned to run them, and their current status.
