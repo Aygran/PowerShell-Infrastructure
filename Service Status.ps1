@@ -1,6 +1,6 @@
 <# 
 
-Created by: Mitchell Edwards
+Created by: Aygran
 Last Updated: 1/31/23
 
 Simple one liner that pulls all services on a server, filters out the service name, who is assigned to the service, and it's current status.
