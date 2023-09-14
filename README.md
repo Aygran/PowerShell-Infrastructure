@@ -34,3 +34,6 @@ of times someone on the internet's script saved me hours of time and headache!
 
 # Service Status -
   Script that pulls all the current services on a server, showing who is assigned to run them, and their current status.
+
+# Copy-Item with Logs - 
+  This script is designed to be used with scheduled tasks for windows servers. Once you configure the source path, destination path, and log path, it will copy the files from the source to the destination, and tell you what was copied with the log file.

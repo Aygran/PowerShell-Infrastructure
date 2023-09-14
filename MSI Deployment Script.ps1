@@ -1,6 +1,6 @@
 <#    ------------------------------------------------------------------------------
                             MSI Deployment Script
-                            Created by: Ody
+                            Created by: Aygran
                             Last Updated: 8/3/22
 
                 Used to deploy MSI's to as many servers as needed through
