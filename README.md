@@ -37,3 +37,6 @@ of times someone on the internet's script saved me hours of time and headache!
 
 # Copy-Item with Logs - 
   This script is designed to be used with scheduled tasks for windows servers. Once you configure the source path, destination path, and log path, it will copy the files from the source to the destination, and tell you what was copied with the log file.
+
+# Get Active Sessions for AD Users -
+  This will check against a list of servers (preferably CSV format) and tell you if that username has an active rdp connection.
