@@ -40,3 +40,6 @@ of times someone on the internet's script saved me hours of time and headache!
 
 # Get Active Sessions for AD Users -
   This will check against a list of servers (preferably CSV format) and tell you if that username has an active rdp connection.
+
+# Event Scanner -
+  Scans event log on machine where it's ran, dumping the most recent Error messages into a easily digestable CSV located in C:\Temp\ErrorEventLog.csv
