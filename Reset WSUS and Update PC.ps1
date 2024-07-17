@@ -5,7 +5,7 @@ Written by:     Aygran
 Last Modified:  5/28/2024
 
 All information is transcribed into a log.
-This script checks PC's from the $PCs = Get-Content -Path "C:\users\meadmin\desktop\PCs.csv".
+This script checks PC's from the $PCs = Get-Content -Path "".
 It verifies if the the PC is online, then if it can verify a connection, will run 3 important commands.
 1st it installs the PS Windows Update module and Imports it.
 2nd it reset's the Windows Update Components.
