@@ -6,6 +6,11 @@ Both for myself as a secure backup in the event they're deleted or lost somewher
 also for others to use when they run into issues or need a problem solved. I can't count the number
 of times someone on the internet's script saved me hours of time and headache!
 
+# Powershell REST API Template
+  This is a rough template for accessing REST APIs like Swagger that use JSON data.<br>
+  There are 2 main parts to this template, a authorization form to allow user input for username and password to generate a token<br>
+  and the second part is a GET request that pulls the data into a variable, and exports specific information from the GET request<br>
+  into a usable CSV file.
 
 # MSI Deployment Tool -
   Simple tool that will place an MSI installer on a target machine, run the MSI with configured arguments, then remove the installer.<br>
