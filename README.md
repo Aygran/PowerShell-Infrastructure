@@ -6,6 +6,13 @@ Both for myself as a secure backup in the event they're deleted or lost somewher
 also for others to use when they run into issues or need a problem solved. I can't count the number
 of times someone on the internet's script saved me hours of time and headache!
 
+# pwTool -
+![image](https://github.com/user-attachments/assets/89df6434-65eb-4bd5-ba60-c0ffb458cd3f)
+  Was playing around a bit using .NET classes in powershell. This tool generates a password and lets admins with permissions change
+  the password of specified accounts. For it to work right, run powershell as admin, then open the .ps1. If you try to right-click
+  "run with Powershell" it could give an execution policy error. This is a beta version as well, there aren't any try/catches or
+  error warnings - You have been warned. This is primarily an example of using .NET classes like forms in Powershell.
+
 # Powershell REST API Template
   This is a rough template for accessing REST APIs like Swagger that use JSON data.<br>
   There are 2 main parts to this template, a authorization form to allow user input for username and password to generate a token<br>
