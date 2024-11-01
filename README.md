@@ -6,6 +6,15 @@ Both for myself as a secure backup in the event they're deleted or lost somewher
 also for others to use when they run into issues or need a problem solved. I can't count the number
 of times someone on the internet's script saved me hours of time and headache!
 
+# Exchange Mail Tracking Report -
+  Was asked a few times this week about looking up smtp messages traversing our exchange. After about the 6th time of this unusual
+  request, I decided to put this together so it can generate reports after some basic information. This does only work with on-premise
+  exchange. But a user inputs their admin credentials, the script creates a new exchange PS Session, then the user puts in what sender
+  and recipient they're looking for and if they want a report generated. There isn't a timeframe setup since it would have been too 
+  weird from a syntax point of view taking that input and having users input it correctly so it just grabs the most recent stuff up
+  to whatever you keep on your exchange logs. This script also uses the ImportExcel module, it's really great for generating reports.
+  However, the setup here is very basic.
+
 # pwTool -
 ![image](https://github.com/user-attachments/assets/89df6434-65eb-4bd5-ba60-c0ffb458cd3f)
 
