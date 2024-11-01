@@ -6,6 +6,11 @@ Both for myself as a secure backup in the event they're deleted or lost somewher
 also for others to use when they run into issues or need a problem solved. I can't count the number
 of times someone on the internet's script saved me hours of time and headache!
 
+# Auto Archive -
+  This script is setup to be a scheduled task. Set it once, then forget. It will move files from one place to another, and create
+  a detailed log of all operations it did. Adjust the $path, $destination, and how old you want the files to be before they're moved.
+  Create a scheduled task, tell a service account to run it as admin, and forget about it.
+
 # Exchange Mail Tracking Report -
   Was asked a few times this week about looking up smtp messages traversing our exchange. After about the 6th time of this unusual
   request, I decided to put this together so it can generate reports after some basic information. This does only work with on-premise
